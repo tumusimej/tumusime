@@ -1,0 +1,49 @@
+body{
+ padding: 50px;
+
+}
+
+.narvebar {
+    display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+
+
+
+
+
+}
+
+
+.itemsbar {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+    
+.hey{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.heycontent{
+    button{
+        background-color: brown;
+        color: aliceblue;
+    }
+}
+.heyimage{
+    img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+}
+
+
+
+
+   

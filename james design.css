@@ -1,0 +1,28 @@
+h1{
+float: right;
+}
+h1{
+    font-size: small;
+}
+h2{font-size: xx-large;}
+h3{font-size: x-large;}
+p{
+    font-size: small;
+}
+image{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 0px solid;
+    float: right;
+    margin-top: -24ch;
+    
+
+}
+button{
+    background-color: rgb(250, 3, 3);
+    color: rgb(211, 211, 17);
+}
+
+
+
